@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(87, 73, 180);
+}
+.footer {
+
+    padding: 50px;
+}
+.Kontakty {
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+    text-underline-offset: 10px;
+}
+ul {
+    list-style: none;
+    color: white;
+
+
+}
+.Otevíracídoba {
+    text-align: center;
+    color: white;
+    text-decoration: underline;
+    text-underline-offset: 10px;
+}
+svg :hover {
+    fill: red;
+  }
+.dny {
+    display: flex;
+    justify-content: center;
+    margin-right: 30px;
+}
+.informace {
+    display: flex;
+    justify-content: center; 
+    margin-left: 10px;
+}
+.loga {
+    text-align: center;
+}
